@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/JoseJCanedo/node_fall22/issues"
   },
-  "homepage": "https://github.com/JoseJCanedo/node_fall22#readme",
+  "homepage": "https://node-fall-22-canedo.onrender.com",
   "dependencies": {
     "axios": "^1.1.0",
     "body-parser": "^1.20.1",
